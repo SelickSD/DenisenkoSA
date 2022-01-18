@@ -2,3 +2,6 @@ xcuserdata/
 *.xcscmblueprint
 *.xccheckout
 *.tmp
+.DS_Store
+Thumbs.db
+.idea/
